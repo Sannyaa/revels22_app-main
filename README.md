@@ -1,16 +1,44 @@
-# mitrevels22
+# MIT Revels'22
 
-Revels '22 app, made using Flutter.
+### Overview
+Revels is an annual cultural fest of MAHE. I was a part of the App Development team where I was responsible for designing and developing the app. It is an all-purpose app for students participating in the various events organized during this period. 
 
-## Getting Started
+### Team
+- Pranshul (Backend Development)
+- Sanya Gupta (Frontend Development and Design)
+- Prakhar (Firebase and Frontend Development)
 
-This project is a starting point for a Flutter application.
+### Timeline
+3 months
+- 2 weeks - design exploration
+- 6 weeks - frontend development
+- 3 weeks - backend implementation
+- 1 week - debugging, testing and deployment
 
-A few resources to get you started if this is your first Flutter project:
+### Tools Used
+- Flutter and dart
+- Node.js, express.js, monogdb
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Features
+- Student registration with robust verification processes.
+- Seamless registration for events with detailed information
+- Easy access to different event categories.
+- Instant schedule adjustments for real-time event tracking.
+- Quick and clear display of event results.
+- Hassle-free purchase of delegate cards for participation.
+- Timely notifications for registered events, keeping participants informed.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Steps to build project
+1. Clone the Flutter Project:
+   * Use `git clone https://github.com/Sannyaa/revels22_app-main.git` to download the project from the GitHub repository.
+2. Install Dependencies:
+   * Navigate to the project directory and run `flutter pub get` to install the required dependencies.
+3. Run the App:
+   * Connect a device or emulator and run the app using `flutter run --flavor dev` or through your IDE.
+
+
+## Initial UI
+
+![image](https://github.com/Sannyaa/revels22_app-main/assets/58509908/64bf97b1-c248-469f-8654-d0fee3e55410)
+
+
